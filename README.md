@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there 👋 i'm [XGames](https://github.com/Xgames123)
+- I stole this from [Seva167](https://github.com/Seva167) because I don't have to change much
+- ✅ I know C# pretty good, also i know a bit of python, and I know a thiny bit of x86 assembly
+- 👀 I'm interested in vr game development, mod development, vrchat stuff
+- 💬 How to contact me Discord: X Games#6869, Twitter: @Games105X
 
 <!--
-**Xgames123/Xgames123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
