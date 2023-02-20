@@ -5,4 +5,4 @@
 ### Socials
 * Discord: [lissy<3#6869](https://lissydev.home.kg/socials/discord)
 * Twitter: [@thereallissydev](https://lissydev.home.kg/socials/twitter)
-Full list is on my [website](https://lissydev.home.kg/)
+* Full list is on my [website](https://lissydev.home.kg/)
